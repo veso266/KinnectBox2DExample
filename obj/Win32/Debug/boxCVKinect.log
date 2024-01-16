@@ -1,0 +1,16 @@
+﻿  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+l:\faks\ioi\openframeworks\example projects\kinnect\boxcvkinect\src\ofapp.cpp(335): warning C4018: '<': signed/unsigned mismatch
+  libusb-1.0.lib(core.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library bin\boxCVKinect_debug.lib and object bin\boxCVKinect_debug.exp
+  Generating code
+  Finished generating code
+  boxCVKinect.vcxproj -> L:\FAKS\IOI\OpenFrameworks\Example projects\Kinnect\boxCVKinect\bin\boxCVKinect_debug.exe
+  
+  	                   2	L:\FAKS\IOI\OpenFrameworks\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	L:\FAKS\IOI\OpenFrameworks\Example projects\Kinnect\boxCVKinect\bin\FreeImage.dll
+  
+  	                   1	L:\FAKS\IOI\OpenFrameworks\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1544704	L:\FAKS\IOI\OpenFrameworks\Example projects\Kinnect\boxCVKinect\bin\fmod.dll
+  	  *EXTRA File 		 1733120	L:\FAKS\IOI\OpenFrameworks\Example projects\Kinnect\boxCVKinect\bin\fmodL.dll

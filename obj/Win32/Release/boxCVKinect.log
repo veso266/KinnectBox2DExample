@@ -1,0 +1,17 @@
+﻿  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+l:\faks\ioi\openframeworks\example projects\kinnect\boxcvkinect\src\ofapp.cpp(375): warning C4018: '<': signed/unsigned mismatch
+     Creating library bin\boxCVKinect.lib and object bin\boxCVKinect.exp
+  Generating code
+  0 of 346 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  boxCVKinect.vcxproj -> L:\FAKS\IOI\OpenFrameworks\Example projects\Kinnect\boxCVKinect\bin\boxCVKinect.exe
+  
+  	                   2	L:\FAKS\IOI\OpenFrameworks\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	L:\FAKS\IOI\OpenFrameworks\Example projects\Kinnect\boxCVKinect\bin\FreeImage.dll
+  
+  	                   1	L:\FAKS\IOI\OpenFrameworks\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1544704	L:\FAKS\IOI\OpenFrameworks\Example projects\Kinnect\boxCVKinect\bin\fmod.dll
+  	  *EXTRA File 		 1733120	L:\FAKS\IOI\OpenFrameworks\Example projects\Kinnect\boxCVKinect\bin\fmodL.dll
